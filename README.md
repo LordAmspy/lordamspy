@@ -7,7 +7,7 @@ Welcome to my GitHub! Here's a quick rundown of what I do and what you'll find h
 ### 👨‍💻 About Me  
 - **Role:** Developer, Educator, and Freelance Enthusiast 💼  
 - **Current Projects:**  
-  - JALA Academy: Building scalable and efficient educational platforms 📚  
+  - JALA Academy: Chief Operations Officer(COO), Building scalable and efficient educational platforms 📚  
   - Psywave Tech: Co-founder, creating tailored websites & video editing services 🌐🎥  
   - JALA Connect: Managing sessions for over 300 students 🤝  
   - A global eCommerce marketplace using React, Spring Boot, and PostgreSQL 🌍🛒  
