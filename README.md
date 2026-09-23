@@ -13,7 +13,7 @@ Currently serving as:
 * **Chief Operations Officer (COO) – JALA Academy**
 * **Tech Lead – Generative AI Development**
 * **Tech Lead – Data Analytics Initiatives**
-* **Co-Founder – Psywave Tech**
+* **Founder – Psywave Tech**
 
 I specialize in building **RAG systems, AI Interview Platforms, predictive models, business intelligence dashboards, and scalable web architectures.**
 
